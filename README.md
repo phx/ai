@@ -112,7 +112,7 @@ I proceeded to send the video transcript to ChatGPT along with my key observatio
 
 I spent maybe 30 minutes on my phone doing this and then went into the dining room and played SKYJO with my family for the rest of the day.  After my brother and his wife left, I came back and got my laptop out and organized all of this for display on GitHub.
 
-Every bit of this took me approximately 3 hours total.  This is easily a $200 billion idea, like honest to God, straight-up, no lie.  Whoever adopts it, you're welcome.
+Every bit of this took me approximately 3 hours total.  This is easily a $200 million idea, like honest to God, straight-up, no lie.  Whoever adopts it, you're welcome.
 
 I do this constantly.  If I could get paid simply for my ideas, hey, holler at me, I've got loads of them. I did this for fun because it was interesting to me.
 
