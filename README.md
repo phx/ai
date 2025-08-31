@@ -106,7 +106,7 @@ The Last Renaissance is not a prediction of what AI will replace. It is an invit
 
 # [VIEW THE COLLABORATION](https://github.com/phx/dna)
 
-I would like to state for the record in my own words how all of this happened. This is a little embarrassing, but I was literally sitting on the toilet this morning watching a Veritasium video on YouTube about Markov, and when I saw what he did with the poem and consolidating the letters down into CC, CV, VC, and VV, the idea just absolutely came naturally like a bolt of lightning and I was like "we could do this exact same shit with DNA."
+I would like to state for the record in my own words how all of this happened. I was watching a Veritasium video on YouTube about Markov, and when I saw what he did with the poem and consolidating the letters down into CC, CV, VC, and VV, the idea just absolutely came naturally like a bolt of lightning and I was like "we could do this exact same shit with DNA."
 
 I proceeded to send the video transcript to ChatGPT along with my key observations and insights in order to kick off this lil research project. All of this was done on my iPhone until I needed to start organizing the README files for GitHub publication.
 
